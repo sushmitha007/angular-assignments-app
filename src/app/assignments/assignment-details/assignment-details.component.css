@@ -1,0 +1,11 @@
+.container{
+    margin-top: 1em;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;    
+}
+#bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
